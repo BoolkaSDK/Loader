@@ -1,0 +1,10 @@
+build
+
+.vscode
+.cache
+.clang-format
+out
+
+# it's not related to sdk my scripts
+win-prod.bat
+android-prod.bat
