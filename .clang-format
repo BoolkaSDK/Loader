@@ -1,0 +1,10 @@
+BasedOnStyle: Chromium
+UseTab: Never
+IndentWidth: 4
+TabWidth: 4
+ColumnLimit: 0
+NamespaceIndentation: All
+FixNamespaceComments: false
+IndentCaseLabels: true
+AccessModifierOffset: -4
+BreakBeforeBraces: Allman

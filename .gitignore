@@ -2,7 +2,6 @@ build
 
 .vscode
 .cache
-.clang-format
 out
 
 # it's not related to sdk my scripts
