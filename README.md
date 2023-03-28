@@ -31,7 +31,7 @@ invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 ```
 - Copy `libboolkaloader.so` to `GeometryDash/lib/armeabi-v7a`
 - `apktool b GeometryDash`
-- Sign APK (idk how :smirk_cat:)
+- Sign APK
 
 # Loading mods
 - On Windows: put mod DLL in `boolkamods` in Geometry Dash directory
